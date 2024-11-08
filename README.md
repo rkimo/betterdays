@@ -45,6 +45,6 @@ This repository hosts the source code for the Better Days website, built with [J
 - **Pull Latest Changes:** Retrieves and merges updates from GitHub.
 
     ```bash
-    git pull origin main
+    git pull origin master
     ```
 
